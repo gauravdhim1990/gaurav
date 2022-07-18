@@ -13,5 +13,3 @@ commit 3 to stagging branch
 commit 4 to staging branch.
 
 commit 5 to staging branch.
-
-commit 6 to staging branch
